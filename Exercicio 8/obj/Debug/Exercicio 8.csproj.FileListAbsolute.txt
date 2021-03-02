@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe.config
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.exe
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\bin\Debug\Exercicio 8.pdb
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.exe
+C:\Users\Acer\source\repos\Exercicio 8\Exercicio 8\obj\Debug\Exercicio 8.pdb
